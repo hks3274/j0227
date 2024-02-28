@@ -2,7 +2,7 @@ package t1_variable;
 
 import java.util.Scanner;
 
-public class Test  {
+public class Test  { //주석
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
