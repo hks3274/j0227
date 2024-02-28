@@ -8,7 +8,7 @@ public class Test4 {
 
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("숫자를 입력하세요 : ");
+		System.out.print("fdfdfd숫자를 입력하세요 : ");
 		int num = sc.nextInt();
 		String str = null;
 
